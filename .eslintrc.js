@@ -15,12 +15,6 @@ module.exports = {
     ecmaVersion: 2022,
   },
   rules: {
-    'prettier/prettier': [
-      'error',
-      {
-        endOfLine: 'auto',
-      },
-    ],
     'prefer-object-spread': 'off',
   },
   plugins: ['prettier'],
