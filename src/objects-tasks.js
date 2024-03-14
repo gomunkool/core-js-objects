@@ -402,7 +402,6 @@ const cssSelectorBuilder = {
 
   attr(/* value */) {
     throw new Error('Not implemented');
-    
   },
 
   pseudoClass(/* value */) {
